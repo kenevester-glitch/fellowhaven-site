@@ -26,9 +26,16 @@ Don't post or send anything that is:
 
 Don't try to break, overload or get around the app's limits or security.
 
+## No tolerance for abusive content
+
+FellowHaven has no tolerance for objectionable or abusive content or users. If you see something wrong:
+
+- **Report it.** Every need has a Report option (the ••• menu). We review reports within 24 hours and remove content that breaks these terms.
+- **Hide it.** Choose "Hide posts from this church" on any need or response, and you won't see that church's needs or responses anymore. You can undo this in Settings > Hidden churches.
+
 ## What we can do
 
-To keep FellowHaven safe and useful, we can hide any post, remove responses, or suspend or remove accounts that break these terms or that we believe harm others, with or without notice. You can report a need in the app if something looks wrong.
+To keep FellowHaven safe and useful, we can hide any post, remove responses, or suspend or remove accounts that break these terms or that we believe harm others, with or without notice.
 
 ## Free, and provided as is
 

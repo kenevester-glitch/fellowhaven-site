@@ -19,6 +19,7 @@ If you can't get into the app, email **office@theospreparation.com** from the ad
 
 - Your sign-in account (email and password)
 - Your church's profile and contact info
+- Your list of hidden churches
 - Every need your church posted, with all the responses to them
 
 ## What stays

@@ -9,6 +9,7 @@ FellowHaven is a free app that helps churches in Cincinnati share what they need
 - We collect only what the needs board needs to work: your sign-in email, your church's profile, and the needs, responses and reports people send.
 - No ads. We never sell your information. No tracking or analytics.
 - You can delete your account anytime in the app: **Settings > Delete account**.
+- You can report a post, or hide a church's posts, anytime.
 
 ## What we collect
 
@@ -21,6 +22,8 @@ FellowHaven is a free app that helps churches in Cincinnati share what they need
 **Responses.** When someone responds to a need, they send their name, their church's name and a short message. If they're signed in, the response is also linked to their account, so they can find it again under "My responses." You don't need an account to respond.
 
 **Reports.** Anyone can report a need that looks wrong. A report holds only which need it's about, the reason, and the time. It doesn't say who sent it.
+
+**Churches you hide.** If you choose "Hide posts from this church," we save that church's ID and name so its posts stay hidden for you. Signed in, this list is stored privately with your account, so only you can see it; signed out, it's kept on your phone only.
 
 **A daily post counter.** To limit spam, we count how many needs each account posts per day (the date, a count and the ID of the latest need).
 
@@ -54,6 +57,7 @@ In the app, go to **Settings > Delete account** (also under Account) and confirm
 
 - your sign-in account,
 - your church's profile and contact info,
+- your list of hidden churches,
 - every need your church posted, along with all the responses to them.
 
 A few things stay:
