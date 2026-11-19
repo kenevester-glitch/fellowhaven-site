@@ -2,7 +2,7 @@
 
 **Effective November 19, 2026**
 
-FellowHaven is a free app that helps churches in Cincinnati share what they need and help each other. It's made by Theos Preparation LLC in Cincinnati, Ohio ("we" or "us"). This policy explains, in plain English, what information FellowHaven collects, why, and what you can do about it.
+FellowHaven is a free app that helps local churches in your city share what they need and help each other. It's made by Theos Preparation LLC in Cincinnati, Ohio ("we" or "us"). This policy explains, in plain English, what information FellowHaven collects, why, and what you can do about it.
 
 ## The short version
 

@@ -92,6 +92,7 @@ def page(title, description, body, home=False):
 
 HOME = f"""<header class="hero">
 <img src="/assets/logo-words-white.png" alt="FellowHaven" width="720" height="537">
+<div class="byline"><img src="/assets/theos-logo.png" alt="Theos Preparation logo" width="132" height="132"><span>Brought to you by Theos Preparation</span></div>
 <p class="tagline">Churches helping churches</p>
 <h1>Welcome to FellowHaven</h1>
 <p class="intro">Churches were never meant to stand alone. FellowHaven connects the churches of your city so they can share what they have and help carry what others need, whether that's chairs for an outreach, volunteers for a food drive, or a van for youth camp.</p>
@@ -106,7 +107,7 @@ HOME = f"""<header class="hero">
 <p class="closing">Post a need, offer a hand, and watch the churches of your city work together as one family. It's free, and it's built for churches.</p>
 <section class="soon">
 <h2>Coming soon to iPhone and Android</h2>
-<p>FellowHaven is starting in Cincinnati.</p>
+<p>Connect with local churches in your city.</p>
 </section>
 <p class="contact">Questions? Email us at <a href="mailto:{EMAIL}">{EMAIL}</a></p>
 </main>"""
