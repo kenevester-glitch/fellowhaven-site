@@ -10,7 +10,7 @@ FellowHaven only connects churches. Churches post needs, other churches respond,
 
 ## Your responsibilities
 
-- **What you post.** Your church is responsible for the needs, responses and contact details it shares. Make sure they're accurate, and only share what you have the right to share.
+- **What you post.** Your church is responsible for the needs, responses and contact details it shares. Make sure they're accurate, and only share what you have the right to share. By posting, you let FellowHaven show your post to other users of the app. You still own what you post.
 - **What you arrange.** Any agreement between churches (lending, giving, volunteering, travel, payment or anything else) is between you and the other church. Use good judgment, follow your church's own safety policies (especially around children and vulnerable people), and meet in safe places.
 - **Your account.** Keep your password private. You're responsible for what's done with your account. Use a real church name and contact details.
 
