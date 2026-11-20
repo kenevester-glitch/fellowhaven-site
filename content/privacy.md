@@ -19,7 +19,7 @@ FellowHaven is a free app that helps local churches in your city share what they
 
 **Needs.** What your church posts: a title, a short summary, details, a category, an optional "needed by" date, and your church's name, city and state.
 
-**Responses.** When someone responds to a need, they send their name, their church's name and a short message. If they're signed in, the response is also linked to their account, so they can find it again under "My responses." You don't need an account to respond.
+**Responses.** When someone responds to a need, they send their name, their church's name and a short message. If they're signed in, the response is also linked to their account, so they can find it again under "My responses." You don't need an account to respond; if you're not signed in, you also give a phone number or email so the church can reach you.
 
 **Reports.** Anyone can report a need that looks wrong. A report holds only which need it's about, the reason, and the time. It doesn't say who sent it.
 
