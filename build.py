@@ -61,7 +61,7 @@ def markdown(source):
     return "\n".join(out)
 
 
-def page(title, description, body, home=False):
+def page(title, description, body, home=False, head_extra=""):
     bar = "" if home else (
         '<header class="bar"><a href="/"><img src="/assets/mark-white.png" alt="" width="40" height="32">'
         "FellowHaven</a></header>\n"
@@ -77,7 +77,7 @@ def page(title, description, body, home=False):
 <link rel="icon" href="/assets/favicon.png" type="image/png">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/site.css">
-</head>
+{head_extra}</head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 {bar}{body}
@@ -119,6 +119,12 @@ PAGES = {
 }
 
 
+HOME_HEAD = (
+    '<link rel="canonical" href="https://fellowhaven.com/">\n'
+    '<meta name="google-site-verification" content="I7YIm4Yz6FkCtrnVVvtLcRGQxtEkOS-CbHiPkV8F2Vc">\n'
+)
+
+
 def main():
     if len(sys.argv) > 1:
         for name in PAGES:
@@ -126,7 +132,7 @@ def main():
     (ROOT / "index.html").write_text(page(
         "FellowHaven · Churches helping churches",
         "FellowHaven connects the churches of your city so they can share what they have and help carry what others need.",
-        HOME, home=True))
+        HOME, home=True, head_extra=HOME_HEAD))
     for name, (title, description) in PAGES.items():
         body = markdown((CONTENT / f"{name}.md").read_text())
         (ROOT / f"{name}.html").write_text(page(
