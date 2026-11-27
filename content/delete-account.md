@@ -21,11 +21,12 @@ If you can't get into the app, email **office@theospreparation.com** from the ad
 - Your church's profile and contact info
 - Your list of hidden churches
 - Every need your church posted, with all the responses to them
+- Every response you sent to other churches' needs while signed in
 
 ## What stays
 
-- Responses you sent to other churches' needs stay with those churches, no longer linked to an account. Ask us by email if you'd like those removed too.
+- Responses you sent without being signed in, because they aren't linked to your account. Ask us by email if you'd like those removed too.
 - A daily post counter (a date, a count and a need ID, nothing personal), so deleting can't be used to get around the posting limit.
-- Reports, which aren't linked to anyone.
+- Reports, which don't say who sent them and which we need to review posts.
 
 Read the full [Privacy Policy](https://fellowhaven.com/privacy) for details.

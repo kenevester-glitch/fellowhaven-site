@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective November 19, 2026**
+**Effective November 27, 2026**
 
 FellowHaven is a free app that helps local churches in your city share what they need and help each other. It's made by Theos Preparation LLC in Cincinnati, Ohio ("we" or "us"). This policy explains, in plain English, what information FellowHaven collects, why, and what you can do about it.
 
@@ -19,7 +19,7 @@ FellowHaven is a free app that helps local churches in your city share what they
 
 **Needs.** What your church posts: a title, a short summary, details, a category, an optional "needed by" date, and your church's name, city and state.
 
-**Responses.** When someone responds to a need, they send their name, their church's name and a short message. If they're signed in, the response is also linked to their account, so they can find it again under "My responses." You don't need an account to respond; if you're not signed in, you also give a phone number or email so the church can reach you.
+**Responses.** When someone responds to a need, they send their name, their church's name and a short message. If they're signed in, the response is also linked to their account, so they can find it again under "My responses" and delete it there anytime. You don't need an account to respond; if you're not signed in, you also give a phone number or email so the church can reach you. A response sent without an account isn't linked to anyone, so it can't be deleted in the app; email us and we'll remove it. The church that posted the need can also delete any response to it.
 
 **Reports.** Anyone can report a need that looks wrong. A report holds only which need it's about, the reason, and the time. It doesn't say who sent it.
 
@@ -58,13 +58,14 @@ In the app, go to **Settings > Delete account** (also under Account) and confirm
 - your sign-in account,
 - your church's profile and contact info,
 - your list of hidden churches,
-- every need your church posted, along with all the responses to them.
+- every need your church posted, along with all the responses to them,
+- every response you sent to other churches' needs while signed in.
 
 A few things stay:
 
-- Responses you sent to **other** churches' needs stay with those churches, because they're part of those churches' conversations. They're no longer linked to an account you can sign in to. If you'd like them removed too, email us.
+- Responses you sent without being signed in aren't linked to your account, so we can't find them automatically. If you'd like them removed, email us and tell us which needs you responded to.
 - The daily post counter (a date, a count and a need ID, nothing personal) stays, so deleting an account can't be used to get around the posting limit.
-- Reports stay, because they aren't linked to anyone.
+- Reports stay, because they don't say who sent them, and we need them to review posts that break our rules.
 
 If you can't use the app, email **office@theospreparation.com** from the address you signed up with and ask us to delete your account. We'll do it within 30 days. More at https://fellowhaven.com/delete-account.
 
